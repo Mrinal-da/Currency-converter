@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-image: url("D:/Mrinal's Workspace/React/currency/src/assets/pexels-pixabay-128867.jpg");
+}
